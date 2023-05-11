@@ -7,7 +7,7 @@ Some of the concept which the two cover are:
 
 1 - Basics: basic data structure manipulation.
 
-2 - Array: Introduction to numpy arrays and basic practical use cases in simple data science problems.
+2 - Array: Introduction to Numpy arrays and basic practical use cases in simple data science problems.
 
 3 - Data visualization: Reading data from csv files and visualizing it.
 
