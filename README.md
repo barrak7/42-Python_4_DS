@@ -13,4 +13,4 @@ Some of the concept which the two cover are:
 
 4 - Object Oriented Programming: Classes, Inheritance, decorators and many more OOP concepts.
 
-5 - Data oriented design: Focus on effecient use of data to improve performance.
+5 - Data oriented design: Focus on efficient use of data to improve performance.
